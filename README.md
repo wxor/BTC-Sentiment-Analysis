@@ -1,4 +1,6 @@
-adjust config if needed
+Adjust config if needed, stream.py will scape twitter for all hashtags specified in the track list.
+
+track=['#bitcoin', '#btc', '#cryptocoin']
 
 run stream.py
 
